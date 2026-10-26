@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/yacarbilisim/akdag-erp-releases/releases/download/v1.3/app-release.apk",
-  "notes": "Ana ekrana Patron Paneli butonu eklendi (patron.yacar.tech uygulama içinde açılıyor)."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/yacarbilisim/akdag-erp-releases/releases/download/v1.6/app-release.apk",
+  "notes": "Uygulamanın adı artık YACAR ERP. Yeni YACAR renkleri ve logosu."
 }
